@@ -1,0 +1,157 @@
+body
+{
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #686868;
+}
+nav
+{
+    z-index: 999999;
+}
+#location
+{
+    background-color: #f8f8f8;
+}
+#con-info
+{
+    background-color: #f8f8f8;
+}
+.main-color
+{
+    color:#8E7754;
+}
+.bg-main
+{
+    background-color:#8E7754;
+}
+.aleg
+{
+    font-family: 'Alegreya', serif;
+}
+.home-cont h1
+{
+    font-size: 76px;
+}
+.home-cont h5
+{
+    line-height: 46px;
+}
+#home
+{
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+.btn1
+{
+    background-color: #8E7754;
+}
+.home-cont button
+{
+    padding: 15px 28px;
+    transition: all 1s;
+}
+h3
+{
+    font-size: 32px;
+}
+.about .icon
+{
+    width: 50px;
+    height: 50px;
+}
+.con-info .icon
+{
+    width: 40px;
+    height: 40px;
+}
+.con-info .map
+{
+    position: relative;
+}
+.con-info .locate
+{
+    position: absolute;
+    background-color: rgba(0, 0, 0, .5);
+    width: 110%;
+    height: 100%;
+    top: 0;
+}
+footer
+{
+    background-color: #403D38;
+    color: #969696;
+}
+footer li
+{
+    border-bottom: 1px solid #96969613;
+}
+.con-det
+{
+    position: relative;
+    z-index: 2;
+}
+.con-img
+{
+    position: absolute;
+    top: 0;
+    opacity: .1;
+    
+}
+#f-bottom
+{
+    background-color: #353330;
+}
+.social .icon
+{
+    background-color: #484540;
+    width: 40px;
+    height: 40px;
+}
+.home-cont button
+{
+    color: white;
+    transition: all 1s;
+}
+.home-cont button:hover
+{
+    color: black;
+    background-color: white;
+}
+.f
+{
+    transition: all 1s;
+}
+.f:hover
+{
+    color: white;
+    background-color: #3B5998;
+}
+.g
+{
+    transition: all 1s;
+}
+.g:hover
+{
+    color: white;
+    background-color: #DD4B39;
+}
+.l
+{
+    transition: all 1s;
+}
+.l:hover
+{
+    color: white;
+    background-color: #007BB5;
+}
+.t
+{
+    transition: all 1s;
+}
+.t:hover
+{
+    color: white;
+    background-color: #00ACED;
+}
+
